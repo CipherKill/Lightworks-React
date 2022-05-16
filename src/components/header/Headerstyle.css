@@ -1,0 +1,12 @@
+.linkformat{
+    text-decoration:none;
+    color:white;
+}
+
+.linkformat:hover{
+    color:grey;
+}
+
+.brand{
+    font-size:1.5rem;
+}
