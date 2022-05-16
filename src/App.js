@@ -2,7 +2,7 @@
 
 function App() {
   return (
-    <>Hello World</>
+    <div className='text-danger'>Hello World</div>
   );
 }
 
