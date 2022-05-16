@@ -5,11 +5,13 @@ import Home from './components/pages/homepage/Home'
 import Bulbs from './components/pages/bulbspage/Bulbs'
 import About from './components/pages/aboutpage/About'
 import NotFound from './components/pages/errorpages/NotFound'
+import {MasterProvider} from './context/MasterContext'
 
 function App() {
   return (
+    <MasterProvider>
     <BrowserRouter>
-      <div className='d-flex flex-column vh-100 justify-content-between'>
+      <div className='d-flex flex-column vh-100 justify-content-between bg-black'>
         <Header/>
         <main>
           <Routes>
@@ -23,6 +25,7 @@ function App() {
         <Footer/>
       </div>
     </BrowserRouter>
+    </MasterProvider>
   );
 }
 
