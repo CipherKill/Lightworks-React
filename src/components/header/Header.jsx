@@ -6,10 +6,10 @@ function Header() {
   return (
       <Navbar bg='dark' variant='dark'>
         <Container fluid className='mx-5'>
-          <Navbar.Brand href='/home' className='brand'>Lightworks</Navbar.Brand>
-          <Nav className='me-auto'>
-            <Nav.Link><Link to='/' className='linkformat'>Home</Link></Nav.Link>
+          <Navbar.Brand href='/' className='brand-format'>Lightworks</Navbar.Brand>
+          <Nav className='ms-auto'>
             <Nav.Link><Link to='/bulbs' className='linkformat'>Bulbs</Link></Nav.Link>
+            <Nav.Link><Link to='/contact' className='linkformat'>Contact</Link></Nav.Link>
             <Nav.Link><Link to='/aboutus' className='linkformat'>About Us</Link></Nav.Link>
           </Nav>
         </Container>

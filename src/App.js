@@ -4,6 +4,7 @@ import Footer from './components/footer/Footer'
 import Home from './components/pages/homepage/Home'
 import Bulbs from './components/pages/bulbspage/Bulbs'
 import About from './components/pages/aboutpage/About'
+import Contact from './components/pages/contactpage/Contact'
 import NotFound from './components/pages/errorpages/NotFound'
 import {MasterProvider} from './context/MasterContext'
 
@@ -16,7 +17,7 @@ function App() {
         <main>
           <Routes>
             <Route path='/' element={<Home/>}/>
-            <Route path='/home' element={<Home/>}/>
+            <Route path='/contact' element={<Contact/>}/>
             <Route path='/bulbs' element={<Bulbs/>}/>
             <Route path='/aboutus' element={<About/>}/>
             <Route path='/*' element={<NotFound/>}/>

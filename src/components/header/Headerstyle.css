@@ -1,12 +1,13 @@
 .linkformat{
     text-decoration:none;
     color:white;
+    font-size:1.2rem;
 }
 
 .linkformat:hover{
     color:grey;
 }
 
-.brand{
-    font-size:1.5rem;
+.brand-format{
+    font-size:2rem !important;
 }
