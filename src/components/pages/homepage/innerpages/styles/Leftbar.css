@@ -15,7 +15,7 @@
 
 }
 
-.btn{
+.btnn{
     color:white;
     padding:0.5rem 2rem;
     font-size:1.5rem;
@@ -23,6 +23,7 @@
     display:block;
     margin-bottom:2rem;
 
+    background-color:black;
     border-style: solid;
     border-image: linear-gradient(to right, rgb(255, 255, 255), rgb(55, 55, 55)) 1;
 }
