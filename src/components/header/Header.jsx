@@ -7,7 +7,7 @@ function Header() {
       <Navbar bg='dark' variant='dark'>
         <Container fluid className='mx-5'>
           <Navbar.Brand href='/' className='brand-format'>Lightworks</Navbar.Brand>
-          <Nav className='ms-auto'>
+          <Nav className='ms-auto linkside'>
             <Nav.Link><Link to='/bulbs' className='linkformat'>Bulbs</Link></Nav.Link>
             <Nav.Link><Link to='/contact' className='linkformat'>Contact</Link></Nav.Link>
             <Nav.Link><Link to='/aboutus' className='linkformat'>About Us</Link></Nav.Link>
