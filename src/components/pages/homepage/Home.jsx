@@ -5,7 +5,7 @@ import Leftbar from './innerpages/Leftbar'
 function Home() {
   return (
     <Container fluid>
-      <Row className='mx-5'>
+      <Row className='mx-md-5'>
         <Col><Leftbar/></Col>
         <Col><Rightbar/></Col>
       </Row>

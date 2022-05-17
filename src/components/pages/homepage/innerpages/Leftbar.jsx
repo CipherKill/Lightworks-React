@@ -13,8 +13,8 @@ function Leftbar(){
     <Container fluid className='offset-margin'>
       <h1 className='heading'>Welcome to Lightworks</h1>
       <p className='description'><span className='format-quote'>&quot;To invent, you need a good imagination and a pile of junk.&quot; </span>- Thomas Edision</p>
-      <button type='button' className='btnn'><Link to='/bulbs' className='link-format'>See Bulbs</Link></button>
-      <button type='button' onClick={switchBulb} className='btnn link-format'>Click to see magic</button>
+      <Link to='/bulbs' className='link-format'><button type='button' className='btnn'>See Bulbs</button></Link>
+      <button type='button' onClick={switchBulb} className='btnn btnn-md link-format'>Click to see magic</button>
     </Container>
   );
 }

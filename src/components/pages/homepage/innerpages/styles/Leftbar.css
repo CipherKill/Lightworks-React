@@ -28,6 +28,9 @@
     border-image: linear-gradient(to right, rgb(255, 255, 255), rgb(55, 55, 55)) 1;
 }
 
+.btnn:hover{
+    color:rgb(94, 94, 94);
+}
 
 .format-quote{
     font-style:italic;
@@ -40,6 +43,18 @@
     color:white;
 }
 
-.link-format:hover{
-    color:darkgrey;
+@media only screen and (max-width:700px){
+    .heading{
+        font-size:2.5rem;
+        width:24rem;
+    }
+    .description{
+        font-size:1.2rem;
+    }
+    .btnn-md{
+        display:none;
+    }
+    .format-quote{
+        font-size:2rem;
+    }
 }
