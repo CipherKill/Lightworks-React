@@ -1,1 +1,1 @@
-# Lightworks React based project
+# The story of SAM
