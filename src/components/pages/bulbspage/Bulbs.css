@@ -1,0 +1,43 @@
+
+.card{
+    background-color:rgb(32, 32, 32);
+    width:16rem;
+    margin: 3rem 6rem;
+    justify-content: center;
+    height:24rem;
+    
+}
+.details{
+    color:white;
+    background-color:rgb(32, 32, 32);
+}
+.bulbpage{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap-reverse;
+}
+.button{
+    color: white;
+    margin-bottom: -38px;
+    margin-left: 10px;
+}
+.image{
+    margin-left: 35px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 170px !important;
+    height: 190px;
+    /* transform: scale(1.5); */
+}
+.name{
+    font-family:'Courier New', Courier, monospace;
+    background-color:rgb(32, 32, 32);
+    margin-left: 10px;
+    
+    
+}
+.price{
+    margin: 5px;
+    background-color:rgb(32, 32, 32);
+    margin-left: 10px;
+}

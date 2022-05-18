@@ -1,0 +1,66 @@
+[
+    
+    {
+        "id":1,
+        "image":"https://m.media-amazon.com/images/I/51L72b6ArpL._SX679_.jpg",
+        "name":"Philips 12W LED Bulb",
+        "price":"₹549"
+
+    },
+
+    {
+        "id":2,
+        "image":"https://m.media-amazon.com/images/I/71qdv2axrTL._SX679_.jpg",
+        "name":"PHILIPS 30-Watts LED Radial Bulb",
+        "price":"₹799"
+
+    },
+
+    {
+        "id":3,
+        "image":"https://m.media-amazon.com/images/I/71LXTPDUyZL._SX679_.jpg",
+        "name":"Wipro 20 Watt LED Light Fixture ",
+        "price":"₹1890"
+
+    },
+
+    {
+        "id":4,
+        "image":"https://m.media-amazon.com/images/I/51hJtV18+fL._SX679_.jpg",
+        "name":"Philips 9-Watt LED Smart Bulb",
+        "price":"₹699"
+
+    },
+
+    {
+        "id":5,
+        "image":"https://images-eu.ssl-images-amazon.com/images/I/51-Os7PmzEL._AC._SR360,460.jpg",
+        "name":"Wipro NE9001 9 Watts B22 LED Bulb",
+        "price":"₹350"
+
+    },
+
+    {
+        "id":6,
+        "image":"https://images-eu.ssl-images-amazon.com/images/I/51DJRC8u1EL._AC._SR360,460.jpg",
+        "name":"PHILIPS Stellar Emergency LED Bulb",
+        "price":"₹399"
+
+    },
+
+    {
+        "id":7,
+        "image":"https://m.media-amazon.com/images/I/611Zp7NezEL._SX679_.jpg",
+        "name":"Halonix Prime 12W B22 LED Bulb",
+        "price":"₹360"
+
+    },
+
+    {
+        "id":8,
+        "image":"https://images-eu.ssl-images-amazon.com/images/I/71fMo6j-DyL._AC._SR360,460.jpg",
+        "name":"Gesto B22 5 LED Swings Bulb",
+        "price":"₹290"
+
+    }
+]
