@@ -7,7 +7,7 @@ function Contact() {
 
     const navigate=useNavigate();
 
-    //below method not adviced
+    //below method not advised
     const [name,setName]=useState('');
     const [email,setEmail]=useState('');
     const [message,setMessage]=useState('');

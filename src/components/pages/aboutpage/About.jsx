@@ -10,7 +10,7 @@ function About() {
           <img src={Sam} alt='picture of Sam' className='ms-5 my-5'/>
         </Col>
         <Col md={9}>
-          <h2 className='mb-3'>Sam's Lightbulb shop</h2>
+          <h2 className='my-5 pusher'>Sam's Lightbulb shop</h2>
           <p className='fs-5'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa perferendis ipsa soluta qui doloribus placeat, aut provident et exercitationem nemo repudiandae molestiae repellat dicta unde corporis, ex laudantium. Eos, ullam!</p>
           <p className='fs-5'>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Tenetur quaerat, odio eveniet cumque nobis, rerum repellat ipsa ab recusandae maiores illum asperiores debitis reprehenderit nihil placeat libero! Adipisci, fuga incidunt?</p>
         </Col>
